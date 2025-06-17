@@ -5,5 +5,5 @@ build/
 *.pkl
 *.json
 *.zip
-*.exe
+# *.exe
 *.7z
