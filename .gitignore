@@ -1,0 +1,9 @@
+log/
+__pycache__/
+build/
+# dist/
+*.pkl
+*.json
+*.zip
+*.exe
+*.7z
